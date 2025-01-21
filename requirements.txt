@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+nltk
+validators
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+unstructured[pdf]
+openai
+pickle-mixin
+pdfminer.six
+pdf2image
+pypdf
